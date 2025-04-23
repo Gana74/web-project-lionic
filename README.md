@@ -10,3 +10,5 @@ Lionic — это проект, включающий HTML, CSS и JavaScript, с
 - CSS3
 - JavaScript
 - Bootstrap
+
+Проект доступен по ссылке: https://gana74.github.io/web-project-lionic/
